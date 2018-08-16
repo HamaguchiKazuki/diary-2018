@@ -7,6 +7,11 @@
 * hogehogehoge
 * hogehogehoge
 
+## 今日わかったこと
+* hogehogehoge
+* hogehogehoge
+* hogehogehoge
+
 ## 困ったこと
 * hogehogehoge
 * hogehogehoeg
